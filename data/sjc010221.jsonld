@@ -18,7 +18,7 @@
     "@graph": {
         "@id": "https://github.com/stuchalk/fair-health-data/data/sjc010221",
         "@type": "sdo:scidataFramework",
-        "uid": "scidata:fair:sjc010121",
+        "uid": "scidata:fair:sjc010221",
         "title": "Health data of Stuart J. Chalk from January 2, 2021",
         "author": [
             {
@@ -129,7 +129,8 @@
                         "instrument": "digital running watch",
                         "name": "Forerunner 245",
                         "vendor": "Garmin",
-                        "software": "Version 5.50"
+                        "software": "Version 5.50",
+                        "accessory": "Garmin Running Dynamics Pod"
                     },
                     {
                         "@id": "procedure/1/",
