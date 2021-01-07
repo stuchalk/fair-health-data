@@ -29,7 +29,7 @@
                 "orcid": "0000-0002-0703-7776"
             }
         ],
-        "description": "Record of body temperature, weight, resting heart rate and physical activity on 1/1/21",
+        "description": "Record of body temperature, weight, resting heart rate, VO2 max and physical activity on 1/1/21",
         "publisher": "Stuart J. Chalk",
         "permalink": "https://github.com/stuchalk/fair-health-data/data/sjc010121.jsonld",
         "keywords": [

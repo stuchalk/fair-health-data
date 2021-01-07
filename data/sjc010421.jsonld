@@ -12,7 +12,7 @@
         },
         {"@base": "https://github.com/stuchalk/fair-health-data/data/sjc010421"}
     ],
-    "@id": "datapoint2",
+    "@id": "datapoint4",
     "generatedAt": "2021-01-04 19:04:21",
     "version": 1,
     "@graph": {
@@ -29,7 +29,7 @@
                 "orcid": "0000-0002-0703-7776"
             }
         ],
-        "description": "Record of body temperature, weight, resting heart rate and physical activity on 1/4/21",
+        "description": "Record of body temperature, weight, resting heart rate, VO2 max and physical activity on 1/4/21",
         "publisher": "Stuart J. Chalk",
         "permalink": "https://github.com/stuchalk/fair-health-data/data/sjc010421.jsonld",
         "keywords": [
@@ -171,7 +171,7 @@
                         "@type": "loinc:77242-6",
                         "type": "obo:OMIT_0013325",
                         "description": "road running",
-                        "link": "https://connect.garmin.com/modern/activity/6040706899",
+                        "link": "https://connect.garmin.com/modern/activity/6052200293",
                         "metrics": [
                             {
                                 "@id": "metric/1/",
@@ -257,7 +257,7 @@
                         "number": {
                             "@id": "datapoint/4/value/",
                             "@type": "sdo:numericvalue",
-                            "value": "47",
+                            "value": "44",
                             "unit": "qudt:BEAT-PER-MIN"
                         }
                     }
