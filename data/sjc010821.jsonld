@@ -10,16 +10,16 @@
             "dc": "http://purl.org/dc/terms/",
             "xsd": "http://www.w3.org/2001/XMLSchema#"
         },
-        {"@base": "https://github.com/stuchalk/fair-health-data/data/sjc010621"}
+        {"@base": "https://github.com/stuchalk/fair-health-data/data/sjc010821"}
     ],
-    "@id": "datapoint6",
-    "generatedAt": "2021-01-09 12:38:52",
+    "@id": "datapoint8",
+    "generatedAt": "2021-01-09 12:36:52",
     "version": 1,
     "@graph": {
-        "@id": "https://github.com/stuchalk/fair-health-data/data/sjc010621",
+        "@id": "https://github.com/stuchalk/fair-health-data/data/sjc010821",
         "@type": "sdo:scidataFramework",
-        "uid": "scidata:fair:sjc010621",
-        "title": "Health data of Stuart J. Chalk from January 6, 2021",
+        "uid": "scidata:fair:sjc010821",
+        "title": "Health data of Stuart J. Chalk from January 8, 2021",
         "author": [
             {
                 "@id": "author/1/",
@@ -29,9 +29,9 @@
                 "orcid": "0000-0002-0703-7776"
             }
         ],
-        "description": "Record of body temperature, weight, resting heart rate, VO2 max and physical activity on 1/6/21",
+        "description": "Record of body temperature, weight, resting heart rate, VO2 max and physical activity on 1/8/21",
         "publisher": "Stuart J. Chalk",
-        "permalink": "https://github.com/stuchalk/fair-health-data/data/sjc010621.jsonld",
+        "permalink": "https://github.com/stuchalk/fair-health-data/data/sjc010821.jsonld",
         "keywords": [
             "body temperature",
             "body weight",
@@ -171,7 +171,7 @@
                         "@type": "loinc:77242-6",
                         "type": "obo:OMIT_0013325",
                         "description": "road running",
-                        "link": "https://connect.garmin.com/modern/activity/6063193504",
+                        "link": "https://connect.garmin.com/modern/activity/6073348256",
                         "metrics": [
                             {
                                 "@id": "metric/1/",
@@ -180,7 +180,7 @@
                                 "value": {
                                     "@id": "metric/1/value/",
                                     "@type": "sdo:numericvalue",
-                                    "number": "386",
+                                    "number": "274",
                                     "unit": "qudt:KiloCAL"
                                 }
                             },
@@ -191,7 +191,7 @@
                                 "value": {
                                     "@id": "metric/2/value/",
                                     "@type": "sdo:numericvalue",
-                                    "number": "3.26",
+                                    "number": "2.22",
                                     "unit": "qudt:MI_US"
                                 }
                             }
@@ -214,7 +214,7 @@
                         "value": {
                             "@id": "datapoint/1/value/",
                             "@type": "sdo:numericvalue",
-                            "number": "96.1",
+                            "number": "96.3",
                             "unit": "qudt:DEG_F"
                         }
                     },
@@ -227,7 +227,7 @@
                         "textstring": {
                             "@id": "datapoint/2/value/",
                             "@type": "sdo:numericvalue",
-                            "number": "182.7",
+                            "number": "181.3",
                             "unit": "qudt:LB"
                         }
                     },
@@ -257,7 +257,7 @@
                         "number": {
                             "@id": "datapoint/4/value/",
                             "@type": "sdo:numericvalue",
-                            "value": "46",
+                            "value": "45",
                             "unit": "qudt:BEAT-PER-MIN"
                         }
                     }
