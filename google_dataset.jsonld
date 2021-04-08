@@ -1,0 +1,14 @@
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Dataset",
+      "name": "FAIR Health Data",
+      "author": {
+        "@type": "Person",
+        "name": "Stuart Chalk"
+      },
+      "datePublished": "2021-04-07",
+      "description": "This dataset has daily health data values for VO2 max, body temperature, resting heart rate, and data for exercise activities (running)",
+      "prepTime": "PT20M"
+    }
+</script>
