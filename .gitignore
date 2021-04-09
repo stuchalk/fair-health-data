@@ -4,7 +4,11 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # virtual enviroment
-venv
+venv/*
+
+# other files
+Health Data 2021.xlsx
+health_data.xpr
 
 # User-specific stuff
 .idea/**/workspace.xml
