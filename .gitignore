@@ -6,6 +6,9 @@
 # virtual enviroment
 venv/*
 
+# juypter notebook
+.ipynb_checkpoints/*
+
 # other files
 Health Data 2021.xlsx
 health_data.xpr
