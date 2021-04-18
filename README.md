@@ -20,8 +20,8 @@ and then processed through a [Python](https://www.python.org/) script run in
 a [Juypter notebook]().
 
 The generated JSON-LD ([JSON for Linked Data](https://www.w3.org/TR/json-ld])) 
-files are uploaded every month, and a new tagged version of the data is generated.  
-Using [Zenodo](https://zenodo.org/), each release of this repository gets an 
+files are uploaded every month, and a new tagged version of the data is generated. Using 
+[Zenodo](https://zenodo.org/), each release of this repository gets an 
 automatically assigned [Digital Object Identifier](https://www.doi.org/) (DOI).
 
 The .csv data file, Juypter notebook, and python scripts are available as part 
