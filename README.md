@@ -28,7 +28,10 @@ The .csv data file, Juypter notebook, and python scripts are available as part
 of the dataset.
 
 ### For Findability
-The repository will be registered with Google datasets.
+Each dataset has a DOI assigned through Zenodo:
+- January 2021 dataset [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4699646.svg)](https://doi.org/10.5281/zenodo.4699646)
+- January-Feburary 2021 dataset [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4699655.svg)](https://doi.org/10.5281/zenodo.4699655)
+- January-March 2021 dataset [![DOI](https://zenodo.org/badge/326083668.svg)](https://zenodo.org/badge/latestdoi/326083668)
 ### For Accessibility
 The data is made available for free via this GitHub repository
 ### For Interoperability
