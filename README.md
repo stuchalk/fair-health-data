@@ -28,7 +28,7 @@ The .csv data file, Juypter notebook, and python scripts are available as part
 of the dataset.
 
 ### For Findability
-The repository will be registered with Google datasets
+The repository will be registered with Google datasets.
 ### For Accessibility
 The data is made available for free via this GitHub repository
 ### For Interoperability
