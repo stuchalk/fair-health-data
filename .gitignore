@@ -87,6 +87,3 @@ fabric.properties
 
 # coverage report
 .coverage
-
-# temp remove 202102
-data/202102/
