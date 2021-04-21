@@ -1,4 +1,4 @@
-<script src="google_dataset.js"></script>
+<div><script src="/fair-health-data/google_dataset.js"></script></div>
 
 # FAIR Health Data
 Personal health data for Stuart J. Chalk made available using the 
