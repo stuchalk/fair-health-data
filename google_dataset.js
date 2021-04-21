@@ -20,7 +20,7 @@
         "isAccessibleForFree" : true,
         "hasPart" : [
             {
-                "@id": "https://doi.org/10.5281/zenodo.4671085"
+                "@id": "https://doi.org/10.5281/zenodo.4699646",
                 "@type": "Dataset",
                 "name": "January 2021 Dataset",
                 "description": "Health data for January 2021",
@@ -32,7 +32,7 @@
                 }
             },
             {
-                "@id": "https://doi.org/10.5281/zenodo."
+                "@id": "https://doi.org/10.5281/zenodo.4699655",
                 "@type": "Dataset",
                 "name": "January-February 2021 Dataset",
                 "description": "Health data for January and February 2021",
@@ -44,7 +44,7 @@
                 }
             },
             {
-                "@id": "https://doi.org/10.5281/zenodo."
+                "@id": "https://doi.org/10.5281/zenodo.4699660",
                 "@type": "Dataset",
                 "name": "January-March 2021 Dataset",
                 "description": "Health data for January thru March 2021",

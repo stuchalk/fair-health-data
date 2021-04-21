@@ -1,10 +1,12 @@
+<script src="/google_dataset.js"></script>
+
 # FAIR Health Data
 Personal health data for Stuart J. Chalk made available using the 
 [FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples).
 ## What is this data?
 As an example of creating FAIR (Findable, Accessible, Interoperable, Reusable) 
-data for a seminar I presented on April 23<sup>rd</sup>, 2021, I decided to 
-collect and publish my health data, starting January 1, 2021.  The data consists of:
+data for a seminar I presented on April 21<sup>st</sup>, 2021 (included PowerPoint file), 
+I decided to collect and publish my health data, starting January 1, 2021.  The data consists of:
 - body weight
 - body temperature (with room temperature as a 'control')
 - resting heart rate
@@ -25,13 +27,15 @@ files are uploaded every month, and a new tagged version of the data is generate
 automatically assigned [Digital Object Identifier](https://www.doi.org/) (DOI).
 
 The .csv data file, Juypter notebook, and python scripts are available as part 
-of the dataset.
+of the dataset. Finally, a list of FAIR resources are available 
+[here](https://docs.google.com/document/d/1BCyZOSvIuMY7GX7y1-NXWqDYsJt-TTDLCBgGsZ7wbiM/edit?usp=sharing).
 
 ### For Findability
 Each dataset has a DOI assigned through Zenodo:
 - January 2021 dataset [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4699646.svg)](https://doi.org/10.5281/zenodo.4699646)
 - January-Feburary 2021 dataset [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4699655.svg)](https://doi.org/10.5281/zenodo.4699655)
 - January-March 2021 dataset [![DOI](https://zenodo.org/badge/326083668.svg)](https://zenodo.org/badge/latestdoi/326083668)
+
 ### For Accessibility
 The data is made available for free via this GitHub repository
 ### For Interoperability
