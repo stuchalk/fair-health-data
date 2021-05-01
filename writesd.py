@@ -1,8 +1,6 @@
 """python scidata JSON-LD writer"""
 from scidatalib.scidata import SciData
 from datetime import datetime
-import json
-import csv
 
 
 def createsd(data):
@@ -52,7 +50,7 @@ def createsd(data):
     sd.version('1')
 
     # graph metadata
-    sd.graph_id(base)
+    sd.graph_uid(base)
     sjc = {'name': 'Stuart J. Chalk',
            'email': 'stuartjchalk@gmail.com',
            'orcid': '0000-0002-0703-7776'}
